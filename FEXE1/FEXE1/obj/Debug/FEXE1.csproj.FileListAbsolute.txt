@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\FEXE1\FEXE1\bin\Debug\FEXE1.exe.config
+C:\Users\Zane\source\repos\FEXE1\FEXE1\bin\Debug\FEXE1.exe
+C:\Users\Zane\source\repos\FEXE1\FEXE1\bin\Debug\FEXE1.pdb
+C:\Users\Zane\source\repos\FEXE1\FEXE1\obj\Debug\FEXE1.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\FEXE1\FEXE1\obj\Debug\FEXE1.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\FEXE1\FEXE1\obj\Debug\FEXE1.exe
+C:\Users\Zane\source\repos\FEXE1\FEXE1\obj\Debug\FEXE1.pdb
